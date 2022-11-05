@@ -1,0 +1,2 @@
+def insertionSort(secuencia):
+    pass
